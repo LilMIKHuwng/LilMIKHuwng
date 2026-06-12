@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/LilMIKHuwng/My_Portfolio/main/public/avatar.jpg" alt="Lâm Quang Hưng" width="120" style="border-radius: 50%; border: 3px solid #EA580C;" />
-
 # Lâm Quang Hưng
 
 ### Full Stack Software Engineer · .NET · React · Angular
